@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BusinessCalculator</string>
+    <string-array name="items">
+        <item>Tinapay</item>
+        <item>Katol</item>
+        <item>Insects</item>
+        <item>Inda</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
