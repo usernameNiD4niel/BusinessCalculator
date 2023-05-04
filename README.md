@@ -6,8 +6,6 @@
 - It works offline
 
 # How to install?
-
-- Scan the QR Code 
   ![qr_code](https://github.com/usernameNiD4niel/BusinessCalculator/blob/main/app/src/main/res/drawable/frame.png)
 
 ````java
