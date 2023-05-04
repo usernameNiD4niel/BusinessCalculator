@@ -8,11 +8,11 @@
 # How to install?
   ![qr_code](https://github.com/usernameNiD4niel/BusinessCalculator/blob/main/app/src/main/res/drawable/frame.png)
 
-```java
+```java 
 public static void toOthers(boolean isYou) {
     if (isYou) {
         System.out.println("Feel free to clone this project");
     } else {
         System.out.println("Goodbye");
     }
-}```
+} ```
