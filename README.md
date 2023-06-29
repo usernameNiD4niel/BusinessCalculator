@@ -5,8 +5,8 @@
 - This project helps the business owner to manage their own expenses and revenue.
 - It works offline
 
-# How to install?
-  ![qr_code](https://github.com/usernameNiD4niel/BusinessCalculator/blob/main/app/src/main/res/drawable/frame.png)
+///# How to install?
+///  ![qr_code](https://github.com/usernameNiD4niel/BusinessCalculator/blob/main/app/src/main/res/drawable/frame.png)
 
 ```java 
 public static void toOthers(boolean isYou) {
